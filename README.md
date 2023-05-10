@@ -9,7 +9,7 @@ Smart Oracle that using Pyth Network and Gelato Web3 functions to:
 ## Demo
 - Mumbai:
   - Smart Contract: [https://mumbai.polygonscan.com/address/0x4c1b1ae4b671d7a778dcddcdc62a14940ec438ba](https://mumbai.polygonscan.com/address/0x4c1b1ae4b671d7a778dcddcdc62a14940ec438ba)
-  - Web3 Function: [https://beta.app.gelato.network/new-task?cid=QmRYLifwyQoiR7WMGyUrSPJYfanbAGbfNv8RJSL5XZM5xS](https://beta.app.gelato.network/new-task?cid=QmRYLifwyQoiR7WMGyUrSPJYfanbAGbfNv8RJSL5XZM5xS)
+  - Web3 Function: [https://beta.app.gelato.network/task/0x98a2402baabf9bd94d27a804a68ca2ac61a907b518a5c3168d9c94f808bcfb2d?chainId=80001](https://beta.app.gelato.network/task/0x98a2402baabf9bd94d27a804a68ca2ac61a907b518a5c3168d9c94f808bcfb2d?chainId=80001)
 
 ## Deploy your smart contract and web3 function
 ```

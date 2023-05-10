@@ -1,10 +1,8 @@
 /* eslint-disable @typescript-eslint/naming-convention */
 import { Web3Function, Web3FunctionContext } from "@gelatonetwork/web3-functions-sdk";
-import { Contract, BigNumber, utils } from "ethers";
-import { Configuration, OpenAIApi } from "openai";
-import { NFTStorage, File } from "nft.storage";
-import axios, { AxiosError } from "axios";
-import { EvmPriceServiceConnection, HexString, Price, PriceFeed } from "@pythnetwork/pyth-evm-js";
+import { utils } from "ethers";
+
+import { EvmPriceServiceConnection} from "@pythnetwork/pyth-evm-js";
 
 interface IPRICE {
   price: number;
